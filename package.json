@@ -1,8 +1,9 @@
 {
   "name": "moleculer-ejson-serializer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "moleculer ejson serializer",
   "main": "index.js",
+  "repository": "https://github.com/zhaoyao91/moleculer-ejson-serializer",
   "keywords": [
     "moleculer",
     "ejson",
