@@ -1,6 +1,6 @@
 {
   "name": "moleculer-ejson-serializer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "moleculer ejson serializer",
   "main": "index.js",
   "repository": "https://github.com/zhaoyao91/moleculer-ejson-serializer",
@@ -12,7 +12,7 @@
   "author": "zhaoyao91 <zhaoyao91@163.com>",
   "license": "MIT",
   "peerDependencies": {
-    "moleculer": "^0.11.x"
+    "moleculer": ">= 0.11.0"
   },
   "dependencies": {
     "ejson": "^2.1.2"
